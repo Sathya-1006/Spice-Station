@@ -2,6 +2,13 @@
 This project is a dynamic web application that allows users to explore and select various items for an order. The interactive interface features a visually appealing design with color-changing effects on hover, enhancing user experience. The site is responsive and incorporates a background image, making it attractive and engaging.
 # Dynamic Order Selection Web Application
 
+## Demo
+
+You can view the live demo of the website at the following link:
+
+[Live Demo - Spice Station](https://sathya-1006.github.io/Spice-Station/)
+
+
 ## Overview
 This project is a dynamic web application designed for users to explore and select various items for an order seamlessly. The application features a visually appealing and interactive interface that enhances user experience.
 
