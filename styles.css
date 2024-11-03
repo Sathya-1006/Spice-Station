@@ -10,6 +10,55 @@ body {
     background-repeat: no-repeat; /* Prevents the image from repeating */
     background-position: center; /* Centers the image */
 }
+
+
+/* Header styles */
+/* Header styles */
+header {
+    background-image: url('your-background-image.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: white; 
+    padding: 20px 0; 
+    display: flex; 
+    justify-content: space-between;
+    align-items: center; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.logo {
+    font-family: 'Lobster', cursive;
+    font-size: 2.5em; 
+    font-weight: bold; 
+    letter-spacing: 1px;
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0; 
+}
+
+nav ul li {
+    display: inline; 
+    margin: 0 20px; 
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none; 
+    font-size: 1.2em;
+    padding: 10px 15px; 
+    transition: background-color 0.3s, color 0.3s; 
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: rgba(255, 255, 255, 0.3); 
+    color: #333; 
+}
+
+
 #menu-container {
     display: flex;
     flex-wrap: wrap;
@@ -71,3 +120,22 @@ button {
   .item-box:hover {
     background-color: #ffcccb; /* Desired hover color */
   }
+
+
+
+
+/* Footer styles */
+footer {
+    background-color: #333; /* Dark background color */
+    color: white; /* White text */
+    text-align: center; /* Center text */
+    padding: 20px; /* Padding for the footer */
+    position: relative; /* Positioning */
+    bottom: 0; /* Stick to the bottom */
+    width: 100%; /* Full width */
+}
+
+footer a {
+    color: white; /* Link color */
+    text-decoration: underline; /* Underline links */
+}
