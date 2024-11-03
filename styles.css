@@ -13,9 +13,8 @@ body {
 
 
 /* Header styles */
-/* Header styles */
 header {
-    background-image: url('your-background-image.jpg'); 
+     
     background-size: cover; 
     background-position: center; 
     color: white; 
